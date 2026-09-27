@@ -1,0 +1,10 @@
+{
+  "name": "First-Responder Babel",
+  "description": "Real-time multilingual emergency helpline bridge connecting callers and operators across Indian languages using Sarvam AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

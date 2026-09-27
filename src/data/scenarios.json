@@ -1,0 +1,38 @@
+[
+  {
+    "id": "tamil-medical",
+    "name": "Medical Emergency — Tamil to English",
+    "emergencyType": "medical",
+    "callerLanguage": "Tamil",
+    "callerLanguageCode": "ta-IN",
+    "speaker": "vijay",
+    "operatorLanguage": "English",
+    "operatorLanguageCode": "en-IN",
+    "callerUtterance": "எனக்கு நெஞ்சு வலி அதிகமாக இருக்கிறது, மூச்சு விட முடியவில்லை. என் அப்பா மயங்கி விழுந்துவிட்டார்! தயவுசெய்து உடனடியாக ஆம்புலன்ஸ் அனுப்புங்கள்!",
+    "operatorReply": "An emergency cardiac ambulance has been dispatched to your GPS location. Keep him lying flat on his back, loosen tight clothing, and do not give any water. Paramedics will arrive in 6 minutes."
+  },
+  {
+    "id": "bhojpuri-fire",
+    "name": "Fire Hazard — Bhojpuri to Hindi",
+    "emergencyType": "fire",
+    "callerLanguage": "Bhojpuri / Hindi",
+    "callerLanguageCode": "hi-IN",
+    "speaker": "aditya",
+    "operatorLanguage": "Hindi",
+    "operatorLanguageCode": "hi-IN",
+    "callerUtterance": "अरे भइया जल्दी आओ! हमनी के दुकान में आग लग गइल बा! सिलेंडर फटे के डर बा, बहुत तेज धुआँ उठ रहल बा!",
+    "operatorReply": "फायर ब्रिगेड की दो गाड़ियाँ तुरंत रवाना कर दी गई हैं। आप सब तुरंत दुकान से बाहर खुली जगह में आ जाएँ और सिलेंडर से दूर रहें।"
+  },
+  {
+    "id": "assamese-accident",
+    "name": "Highway Crash — Assamese to English",
+    "emergencyType": "accident",
+    "callerLanguage": "Assamese",
+    "callerLanguageCode": "as-IN",
+    "speaker": "mouchumi_as_conversational",
+    "operatorLanguage": "English",
+    "operatorLanguageCode": "en-IN",
+    "callerUtterance": "ৰাষ্ট্ৰীয় ঘাইপথত এখন ডাঙৰ গাড়ী আৰু বাছৰ মুখামুখি সংঘৰ্ষ হৈছে! বহুতো মানুহ আহত হৈছে, তেজ ওলাইছে, সোনকালে পুলিচ আৰু এম্বুলেন্স পঠিয়াওক!",
+    "operatorReply": "Two rescue teams and 3 ambulances are en route via Highway Patrol. Ensure bystanders don't crowd the victims, apply clean cloth pressure to heavy bleeding if safe."
+  }
+]
